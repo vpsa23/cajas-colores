@@ -1,0 +1,46 @@
+.cuadrados{
+	width: 330px;	
+	height: 300px;
+	background-color: red;
+}
+
+.morado{
+	background-color: purple;
+	width: 150px;
+	height: 135px;
+	position: absolute;
+	left: 95px;
+	top: 95px;
+}
+
+.amarillo{
+	background-color: yellow;
+	width: 80px;
+	height: 70px;
+	position: absolute;
+	left: 95px;
+	top: 95px;
+}
+
+
+.cuadrados2{
+	width: 330px;
+	height: 300px;
+	background-color: blue;
+	margin-top: 20px;
+}
+
+.verde{
+	background-color: green;
+	width: 150px;
+	height: 135px;
+	position: absolute;
+	left: 95px;
+	top: 420px;
+}
+
+.negro{
+	background-color: black;
+	width: 87px;
+	height: 84px;
+}
